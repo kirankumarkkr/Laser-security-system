@@ -1,5 +1,3 @@
-Here’s a professional **README.md** for your **Arduino-Based Laser Security System**:
-
 ---
 
 # Laser Security System using Arduino
@@ -66,7 +64,7 @@ The **Laser Security System** is an advanced security measure that uses a laser 
 
 The circuit diagram integrates the Arduino board with the laser module, LDR sensor, and buzzer. The laser beam shines on the LDR, and any interruption is detected as irregular activity, triggering the buzzer.
 
-
+![Image alt](https://github.com/kirankumarkkr/Laser-security-system/blob/7468b54f56f77ccc4510ba6698c8f6533b629803/Diagram.png)
 
 ---
 
