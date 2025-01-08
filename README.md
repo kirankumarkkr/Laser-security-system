@@ -97,7 +97,7 @@ The **Arduino-based Laser Security System** demonstrated its reliability and eff
 
 - **Author**: Kiran Kumar R  
 - **Email**: [kirankumarkkr29@gmail.com]  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)  
+- **GitHub**: [Your GitHub Profile](https://github.com/kirankumarkkr)  
 - **Instagram**: [@_kiran_kumar_r_](https://www.instagram.com/_kiran_kumar_r_/)
 
 ---
